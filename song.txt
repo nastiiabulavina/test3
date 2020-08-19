@@ -3,3 +3,5 @@ Bulavina
 Anastasiia
 I'm 25
 years old
+
+I stady automation testing
